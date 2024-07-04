@@ -29,7 +29,7 @@ const Body = () => {
                 <span>70%</span>
               </li>
               <li>
-                <span>Python Git</span>
+                <span>Python Django</span>
                 <br />
                 <span>80%</span>
               </li>

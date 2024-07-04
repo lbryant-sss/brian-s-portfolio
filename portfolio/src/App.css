@@ -6,6 +6,9 @@ body{
     #088395
     #37B7C3
     */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .container {
@@ -16,5 +19,6 @@ ul{
 }
 a{
     text-decoration: none;
+    color: #7bd0d8;
 }
 

@@ -10,13 +10,15 @@ nav{
     z-index: 1000;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
+
 .logo-name{
     margin: auto;
     font-size: 30px;
     font-weight: 600;
-    color: #37B7C3;
+    color: #1f737a;
     font-family: "Ga Maamli", sans-serif;;
 }
+
 .menu {
     margin: 0 auto;
 }
@@ -37,7 +39,7 @@ nav{
 }
 .navbar_links li a:hover{
     background-color: #EBF4F6;
-    color: #37B7C3;
+    color: #1f737a;
 }
 .navbar_menubar{
     display: none;
@@ -60,8 +62,8 @@ nav{
         justify-content: flex-start;
         z-index: 999;
         animation: navMotion 0.5s ease;
-        background-color: rgba(255, 255, 255, 0.25);
-        box-shadow: 0 -10px 10px 0 rgba(0, 0, 0, 0.1);
+        background-color: rgba(0, 0, 0, 0.25);
+        box-shadow: 0 -10px 10px 0 rgba(0, 0, 0, 0.7);
         backdrop-filter: blur(4px);
         border-bottom-right-radius: 10px;
         border-bottom-left-radius: 10px;
@@ -69,7 +71,7 @@ nav{
         height: auto;
         align-items: stretch;
         margin: 0;
-        border: solid 1px #dadada;
+        border: none;
     }
 
     .navbar_links a{

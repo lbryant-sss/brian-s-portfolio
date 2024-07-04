@@ -3,6 +3,7 @@ import { FaBars } from 'react-icons/fa'; // Importing the icon from react-icons
 import './NavBar.scss'; // Importing the SCSS file for styling
 
 const NavBar = () => {
+    
     function showSidebar(){
         const sidebar = document.querySelector('.navbar_links')
         sidebar.style.display = 'flex'
@@ -30,19 +31,19 @@ const NavBar = () => {
                         </a>
                      </li>
                         <li>
-                            <a href="#">// Skills</a>
+                            <a href="#skills">// Skills</a>
                         </li>
                         <li>
-                            <a href="#">// Projects</a>
+                            <a href="#projects">// Projects</a>
                         </li>
                         <li>
-                            <a href="#">// Resume</a>
+                            <a href="https://github.com/lbryant-sss/brian-s-portfolio/blob/main/Brian%20Mungai's%20Resume.pdf">// Resume</a>
                         </li>
                         <li>
-                            <a href="#">// Github</a>
+                            <a href="https://github.com/lbryant-sss">// Github</a>
                         </li>
                         <li>
-                            <a href="#">// LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/brian-mungai-0911181b8">// LinkedIn</a>
                         </li>
                     </ul>
                 </div>

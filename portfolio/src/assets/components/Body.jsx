@@ -80,7 +80,7 @@ const Body = () => {
             <div className="card">
               <a href="https://github.com/lbryant-sss/brian-s-portfolio">
                 <span>This Portfolio</span><br />
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_EajeGlM1znJBhsNIeFB5Vq7aWQlhWIptH6-LcGZtI1n14llou_kLHOXHvHPtFj3D5U&usqp=CAU" alt="" />
+                <img src="https://miro.medium.com/v2/resize:fit:548/1*ZBc5J-bCKB4QxKxRi-mFmw.jpeg" alt="my react portfolio" />
                 <p>
                 A modern portfolio showcasing fullstack development skills, built with React for dynamic and responsive design. Hosted on GitHub, it demonstrates proficiency in web development and version control.
                 </p>
